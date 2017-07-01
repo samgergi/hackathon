@@ -4,14 +4,18 @@ one:
   name: MyString
   description: MyString
   project_link: MyString
-  members: MyString
   logo: MyString
-  score: 1
+  concept_score: 1
+  style_score: 1
+  git_score: 1
+  userfriendly_score: 1
 
 two:
   name: MyString
   description: MyString
   project_link: MyString
-  members: MyString
   logo: MyString
-  score: 1
+  concept_score: 1
+  style_score: 1
+  git_score: 1
+  userfriendly_score: 1
